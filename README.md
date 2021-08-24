@@ -45,6 +45,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasif-izar&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="wasif-izar" />
 </a>
 
+<br/>
+
 <a href="https://github.com/wasif-izar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wasif-izar&show_icons=true&theme=merko&locale=en" alt="wasif-izar" />
 </a>
