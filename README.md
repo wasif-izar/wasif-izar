@@ -57,6 +57,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/wasif-izar-a32935171" target="blank"><img align="center" src="https://img.shields.io/badge/-Wasif%20Izar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="wasif-izar-a32935171" /></a>
 <a href="https://instagram.com/wasif_izhar_32" target="blank"><img align="center" src="https://img.shields.io/badge/-Wasif%20Izar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="wasif_izhar_32" /></a>
+<a href="mailto:wasifizar99@gmail.com"><img src="https://img.shields.io/badge/-wasifizar99@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 
