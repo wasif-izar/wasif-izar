@@ -42,20 +42,19 @@
 
 
 <a href="https://github.com/wasif-izar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasif-izar&show_icons=true&locale=en&layout=compact" alt="wasif-izar" />
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wasif-izar&show_icons=true&locale=en" alt="wasif-izar" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasif-izar&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="wasif-izar" />
+</a>
+
+<a href="https://github.com/wasif-izar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wasif-izar&show_icons=true&theme=merko&locale=en" alt="wasif-izar" />
 </a>
 
 <br />
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="left">
-<a href="https://linkedin.com/in/wasif-izar-a32935171" target="blank"><img align="center" src="https://img.shields.io/badge/-Wasif%20Izar-0077B5?style=for-the-badge&logo=linkedin&logo" alt="wasif-izar-a32935171" /></a>
-
-
-
-<a href="https://instagram.com/wasif_izhar_32" target="blank"><img align="center" src="https://img.shields.io/badge/-Wasif%20Izar-E4405F?style=for-the-badge&logo=instagram&logo" alt="wasif_izhar_32" /></a>
+<a href="https://linkedin.com/in/wasif-izar-a32935171" target="blank"><img align="center" src="https://img.shields.io/badge/-Wasif%20Izar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="wasif-izar-a32935171" /></a>
+<a href="https://instagram.com/wasif_izhar_32" target="blank"><img align="center" src="https://img.shields.io/badge/-Wasif%20Izar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="wasif_izhar_32" /></a>
 </p>
 
 
