@@ -25,7 +25,7 @@
 
 
 <p align="left">
-<a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="android" /> </a> 
+<a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=black" alt="android" /> </a> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" /> </a> 
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" /> </a> 
 </p>
